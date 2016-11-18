@@ -1,0 +1,1 @@
+Welcome ${currentCustomer.email}!

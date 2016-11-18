@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Model/ProductManager.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/index.html</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/WelcomeCustomer.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/MainTemplate.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/CustomerLogin.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Model/Customer.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Admin.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Model/CoffeeShopException.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/style.css</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/RegisterCustomer.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Edit.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/coffee.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Model/Product.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/GuestBook.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/API/ProductAPI.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/ProductAdmin.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Model/CustomerManager.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/coffee.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/ProductList.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/Edit.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Model/GuestBookMessageManager.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/GuestBook.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/nbproject/build-impl.xml</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/CustomerLogin.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/web/Admin.jsp</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/API/ApplicationConfig.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/Model/GuestBookMessage.java</file>
+            <file>file:/home/ekir/NetBeansProjects/CoffeeShop/src/java/RegisterCustomer.java</file>
+        </group>
+    </open-files>
+</project-private>

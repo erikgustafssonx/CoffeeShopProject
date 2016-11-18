@@ -1,0 +1,64 @@
+.menu a {
+    background-color: white;
+}
+#body{
+    background-color: #1F0A00;
+}
+.buyBtn
+{
+
+   background-color:green;
+   width: 100px;
+   height:50px;
+   border-bottom:solid;
+   border-left: #FFEEEE;
+   border-right:solid;
+   border-top: #EEEEEE;
+   color: white;
+   font-family: Verdana, Aria;
+   margin-top:25vw;
+   margin-left: 10vw;
+
+}
+#container{
+
+}
+/* a:hover{
+    background-color: #CCFF33;
+}*/
+.shp{
+    position: relative;
+    background-color:#527A00;
+    border-radius: 10px;
+    width: 30vw;
+    font-family:AR DECODE;
+    color:#FF7519;
+    font-size: 8px;
+    font-weight: bold;
+    text-align: left;
+    padding: 1vw;
+  /*float:left;*/
+
+}
+#bgc{
+    background-color: #66004C;
+    height:100vh;
+    width: 65vw;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#leftList{
+     border-radius: 8px;
+     background-color: white;
+     height:20vw;
+     width:28vw;
+     margin-left:32vw;
+
+}
+.content{
+    float: left;
+}
+.logo{
+     width: 66vw;
+}
